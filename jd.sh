@@ -95,7 +95,7 @@ function Combin_All {
   export JD_COOKIE=$(Combin_Sub Cookie)
   export FRUITSHARECODES=$(Combin_Sub ForOtherFruit "7b1795c89cef424fbe20379fc32bbb1e@3eff206b9f35480b9fb772f3f6247aa0@75ac7988f86442c1a13f6199817fd562@a58cad1dea3b47e4b668cdad01372d6a")
   export PETSHARECODES=$(Combin_Sub ForOtherPet "MTE1NDUyMjEwMDAwMDAwNDI3MDUzMzk=")
-  export PLANT_BEAN_SHARECODES=$(Combin_Sub ForOtherBean "thls7rbxbm7htau7k6l5pff3za@ejuuapatlmltooqbns6eertieu@ejuuapatlmltoxqfqaamu37pvu2)
+  export PLANT_BEAN_SHARECODES=$(Combin_Sub ForOtherBean "thls7rbxbm7htau7k6l5pff3za@ejuuapatlmltooqbns6eertieu@ejuuapatlmltoxqfqaamu37pvu2")
   export DREAM_FACTORY_SHARE_CODES=$(Combin_Sub ForOtherDreamFactory "xzemTDSFrX1GW70OD0qucw==")
   export DDFACTORY_SHARECODES=$(Combin_Sub ForOtherJdFactory "T012aET1la-MLelECjVWnYaS5kRrbA")
   export JDZZ_SHARECODES=$(Combin_Sub ForOtherJdzz )
